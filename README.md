@@ -1,1 +1,1 @@
-# Graficos-com-matplotlib
+Esse notebook do Colab contém todas as aulas, desafios, gráficos e análises que foram compartilhados pela Imersão Dados da Alura. Foi utilizado as bibliotecas: pandas, numpy, matplotlib, seaborn e diversos tipos de análises estatísticas, como: correlação, média, causalidade, entre outros. 
